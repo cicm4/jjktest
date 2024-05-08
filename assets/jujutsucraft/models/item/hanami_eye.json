@@ -1,0 +1,7 @@
+{
+  "parent": "jujutsucraft:custom/hanami_eye",
+  "textures": {
+    "0": "jujutsucraft:block/hanami_eye",
+    "particle": "jujutsucraft:item/icon_item"
+  }
+}

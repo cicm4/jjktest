@@ -1,0 +1,8 @@
+{
+  "parent": "jujutsucraft:custom/mythicalbeastamber_head",
+  "textures": {
+    "0": "jujutsucraft:block/mythicalbeastamber_head",
+    "1": "jujutsucraft:block/clear",
+    "particle": "jujutsucraft:item/icon_clothes_kashimo_helmet"
+  }
+}

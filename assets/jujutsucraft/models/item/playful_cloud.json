@@ -1,0 +1,7 @@
+{
+  "parent": "jujutsucraft:custom/playful_cloud",
+  "textures": {
+    "0": "jujutsucraft:block/playful_cloud",
+    "particle": "jujutsucraft:item/icon_sword"
+  }
+}

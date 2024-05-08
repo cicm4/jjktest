@@ -1,0 +1,7 @@
+{
+  "parent": "jujutsucraft:custom/itadori_paper",
+  "textures": {
+    "0": "jujutsucraft:block/itadori_paper",
+    "particle": "jujutsucraft:item/icon_item"
+  }
+}

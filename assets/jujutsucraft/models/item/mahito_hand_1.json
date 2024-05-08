@@ -1,0 +1,7 @@
+{
+  "parent": "jujutsucraft:custom/mahito_hand1",
+  "textures": {
+    "0": "jujutsucraft:block/mahito_hand1",
+    "particle": "jujutsucraft:item/icon_sword"
+  }
+}

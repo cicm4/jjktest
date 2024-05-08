@@ -1,0 +1,27 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"both_arm_front": {
+			"animation_length": 0.04167,
+			"bones": {
+				"right_arm": {
+					"rotation": {
+						"vector": [-80, -15, -45]
+					},
+					"position": {
+						"vector": [0, 0, -1]
+					}
+				},
+				"left_arm": {
+					"rotation": {
+						"vector": [-80, 15, 45]
+					},
+					"position": {
+						"vector": [0, 0, -1]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

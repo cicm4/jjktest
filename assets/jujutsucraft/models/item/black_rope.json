@@ -1,0 +1,7 @@
+{
+  "parent": "jujutsucraft:custom/black_rope",
+  "textures": {
+    "1": "jujutsucraft:block/hair_black",
+    "particle": "jujutsucraft:item/icon_sword"
+  }
+}
